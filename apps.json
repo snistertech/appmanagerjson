@@ -8,19 +8,19 @@
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZnb2wuSHVuZ3J5U2hhcmtFdm9sdXRpb25faWNvbl8xNjkwMTgxNDUxXzA1Mg/icon.webp?w=106&fakeurl=1&type=.webp"
   },
   {
-    "name": "Stickman Legends Offline Games",
-    "package": "com.zitga.ninja.stickman.legends",
-    "type": "xapk",
-    "mode": "offline",
-    "url": "https://d.apkpure.com/b/XAPK/com.zitga.ninja.stickman.legends?version=latest",
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnppdGdhLm5pbmphLnN0aWNrbWFuLmxlZ2VuZHNfaWNvbl8xNzQ1MDM5MjkwXzAyMA/icon.webp?w=106&fakeurl=1&type=.webp"
-  },
-  {
     "name": "Shattered Pixel Dungeon",
     "package": "com.shatteredpixel.shatteredpixeldungeon",
     "type": "xapk",
     "mode": "offline",
     "url": "https://d-31.winudf.com/b/XAPK/Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl84OTZfZGFmZTY5YWE?_fn=U2hhdHRlcmVkIFBpeGVsIER1bmdlb25fMy4zLjhfQVBLUHVyZS54YXBr&_p=Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbg%3D%3D&download_id=1793201278340990&is_hot=false&k=8aa2b2768e80c1f6db42a2b29e2946bb69f762d0&uu=http%3A%2F%2F172.16.79.1%2Fb%2FXAPK%2FY29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl84OTZfZGFmZTY5YWE%3Fk%3D9e705131bc9976b1561f47e4a5a1d0b969f762d0",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl9pY29uXzE2MTQzNjQ1MjlfMDAw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "PUBG MOBILE LITE",
+    "package": "com.tencent.iglite",
+    "type": "xapk",
+    "mode": "online",
+    "url": "https://d-e02.winudf.com/b/XAPK/Y29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj?_fn=UFVCRyBNT0JJTEUgTElURV8wLjI3LjBfQVBLUHVyZS54YXBr&_p=Y29tLnRlbmNlbnQuaWdsaXRl&download_id=1566004884093165&is_hot=true&k=e49ba6ddbd2cf0bb5c6e70cc2856e0a269f76a40&uu=https%3A%2F%2Fd-09.winudf.com%2Fb%2FXAPK%2FY29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj%3Fk%3Df9e1612717e31fb1ba561e4b9c82104a69f76a40",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdsaXRlX2ljb25fMTY3MTA3NTA0NV8wNDA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
