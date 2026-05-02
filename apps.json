@@ -23,4 +23,13 @@
     "url": "https://d-e02.winudf.com/b/XAPK/Y29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj?_fn=UFVCRyBNT0JJTEUgTElURV8wLjI3LjBfQVBLUHVyZS54YXBr&_p=Y29tLnRlbmNlbnQuaWdsaXRl&download_id=1566004884093165&is_hot=true&k=e49ba6ddbd2cf0bb5c6e70cc2856e0a269f76a40&uu=https%3A%2F%2Fd-09.winudf.com%2Fb%2FXAPK%2FY29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj%3Fk%3Df9e1612717e31fb1ba561e4b9c82104a69f76a40",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdsaXRlX2ljb25fMTY3MTA3NTA0NV8wNDA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
+  ,
+  {
+    "name": "Subway Surfers City",
+    "package": "com.sybogames.subway.surfers.game",
+    "type": "xapk",
+    "mode": "offline",
+    "url": "https://d.apkpure.com/b/XAPK/com.sybogames.subway.surfers.game?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnN5Ym9nYW1lcy5zdWJ3YXkuc3VyZmVycy5nYW1lX2ljb25fMTc3NDA0NTM2Nl8wNzU/icon.webp?w=106&fakeurl=1&type=.webp"
+  }
 ]
