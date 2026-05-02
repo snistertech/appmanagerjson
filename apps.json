@@ -3,7 +3,18 @@
     "name": "Hungry Shark",
     "package": "com.fgol.HungrySharkEvolution",
     "type": "apk",
+    "mode": "offline",
     "url": "https://d.apkpure.com/b/XAPK/com.fgol.HungrySharkEvolution?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZnb2wuSHVuZ3J5U2hhcmtFdm9sdXRpb25faWNvbl8xNjkwMTgxNDUxXzA1Mg/icon.webp?w=106&fakeurl=1&type=.webp"
+  }
+],
+[
+  {
+    "name": "Stickman Legends Offline Games",
+    "package": "com.zitga.ninja.stickman.legends",
+    "type": "apk",
+    "mode": "offline",
+    "url": "https://d.apkpure.com/b/XAPK/com.zitga.ninja.stickman.legends?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnppdGdhLm5pbmphLnN0aWNrbWFuLmxlZ2VuZHNfaWNvbl8xNzQ1MDM5MjkwXzAyMA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
