@@ -8,12 +8,12 @@
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZnb2wuSHVuZ3J5U2hhcmtFdm9sdXRpb25faWNvbl8xNjkwMTgxNDUxXzA1Mg/icon.webp?w=106&fakeurl=1&type=.webp"
   },
   {
-    "name": "Shattered Pixel Dungeon",
-    "package": "com.shatteredpixel.shatteredpixeldungeon",
+    "name": "Call of Duty®: Mobile",
+    "package": "com.activision.callofduty.shooter",
     "type": "xapk",
-    "mode": "offline",
-    "url": "https://d-31.winudf.com/b/XAPK/Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl84OTZfZGFmZTY5YWE?_fn=U2hhdHRlcmVkIFBpeGVsIER1bmdlb25fMy4zLjhfQVBLUHVyZS54YXBr&_p=Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbg%3D%3D&download_id=1793201278340990&is_hot=false&k=8aa2b2768e80c1f6db42a2b29e2946bb69f762d0&uu=http%3A%2F%2F172.16.79.1%2Fb%2FXAPK%2FY29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl84OTZfZGFmZTY5YWE%3Fk%3D9e705131bc9976b1561f47e4a5a1d0b969f762d0",
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnNoYXR0ZXJlZHBpeGVsLnNoYXR0ZXJlZHBpeGVsZHVuZ2Vvbl9pY29uXzE2MTQzNjQ1MjlfMDAw/icon.webp?w=106&fakeurl=1&type=.webp"
+    "mode": "online",
+    "url": "https://d.apkpure.com/b/XAPK/com.activision.callofduty.shooter?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFjdGl2aXNpb24uY2FsbG9mZHV0eS5zaG9vdGVyX2ljb25fMTc3MDc3Mzg0N18wMTM/icon.webp?w=106&fakeurl=1&type=.webp"
   },
   {
     "name": "PUBG MOBILE LITE",
@@ -22,8 +22,7 @@
     "mode": "online",
     "url": "https://d-e02.winudf.com/b/XAPK/Y29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj?_fn=UFVCRyBNT0JJTEUgTElURV8wLjI3LjBfQVBLUHVyZS54YXBr&_p=Y29tLnRlbmNlbnQuaWdsaXRl&download_id=1566004884093165&is_hot=true&k=e49ba6ddbd2cf0bb5c6e70cc2856e0a269f76a40&uu=https%3A%2F%2Fd-09.winudf.com%2Fb%2FXAPK%2FY29tLnRlbmNlbnQuaWdsaXRlXzE1MTU2XzM2NWJkMGZj%3Fk%3Df9e1612717e31fb1ba561e4b9c82104a69f76a40",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdsaXRlX2ljb25fMTY3MTA3NTA0NV8wNDA/icon.webp?w=106&fakeurl=1&type=.webp"
-  }
-  ,
+  },
   {
     "name": "Subway Surfers City",
     "package": "com.sybogames.subway.surfers.game",
@@ -31,5 +30,46 @@
     "mode": "offline",
     "url": "https://d.apkpure.com/b/XAPK/com.sybogames.subway.surfers.game?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnN5Ym9nYW1lcy5zdWJ3YXkuc3VyZmVycy5nYW1lX2ljb25fMTc3NDA0NTM2Nl8wNzU/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Mobile Legends: Bang Bang",
+    "package": "com.mobile.legends",
+    "type": "apk",
+    "mode": "online",
+    "url": "https://d.apkpure.com/b/APK/com.mobile.legends?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm1vYmlsZS5sZWdlbmRzX2ljb25fMTc2NDMyMzc0OV8wMDc/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Crossfire: Legends",
+    "package": "com.tencent.stc.cfl",
+    "type": "apk",
+    "mode": "online",
+    "url": "https://d.apkpure.com/b/APK/com.tencent.stc.cfl?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/user/admin/YWRtaW5fYzFiM2I2MGE5NjdhMmM5ZjhiNWVjM2U0NmQyY2Q1MWVfb3JpZ2luLnBuZ18xNzY1ODU5MDQ0MTQy/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Bus Simulator Indonesia",
+    "package": "com.maleo.bussimulatorid",
+    "type": "xapk",
+    "mode": "online",
+    "url": "https://d.apkpure.com/b/XAPK/com.maleo.bussimulatorid?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm1hbGVvLmJ1c3NpbXVsYXRvcmlkX2ljb25fMTcyNjQyNDM5MF8wMzY/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Car Parking Multiplayer",
+    "package": "com.olzhas.carparking.multyplayer",
+    "type": "xapk",
+    "mode": "online",
+    "url": "https://d.apkpure.com/b/XAPK/com.olzhas.carparking.multyplayer?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm9semhhcy5jYXJwYXJraW5nLm11bHR5cGxheWVyX2ljb25fMTY0NDM0NTM2OF8wOTg/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Car Parking Multiplayer 2",
+    "package": "com.olzhas.carparking.multyplayer2",
+    "type": "xapk",
+    "mode": "online",
+    "size": "3.0GB",
+    "url": "https://d.apkpure.com/b/XAPK/com.olzhas.carparking.multyplayer2?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm9semhhcy5jYXJwYXJraW5nLm11bHR5cGxheWVyMl9pY29uXzE3MTgyMjUzODVfMDgw/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
