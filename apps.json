@@ -408,5 +408,15 @@
     "type": "Game",
     "url": "https://d.apkpure.com/b/APK/com.levelinfinite.sgameGlobal?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmxldmVsaW5maW5pdGUuc2dhbWVHbG9iYWxfaWNvbl8xNzI3MjU3NjQyXzA2OQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Temple Run 2: Endless Escape",
+    "package": "com.imangi.templerun2",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "167MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.imangi.templerun2?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmltYW5naS50ZW1wbGVydW4yX2ljb25fMTY3MzE3MzU1NF8wMzA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
