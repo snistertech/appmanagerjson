@@ -2,7 +2,7 @@
   {
     "name": "Hungry Shark",
     "package": "com.fgol.HungrySharkEvolution",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "offline",
     "size": "196MB",
     "type": "Game",
@@ -12,7 +12,7 @@
   {
     "name": "Call of Duty®: Mobile",
     "package": "com.activision.callofduty.shooter",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "online",
     "size": "2.1GB",
     "type": "Game",
@@ -22,7 +22,7 @@
   {
     "name": "PUBG MOBILE LITE",
     "package": "com.tencent.iglite",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "online",
     "size": "750MB",
     "type": "Game",
@@ -32,7 +32,7 @@
   {
     "name": "Subway Surfers City",
     "package": "com.sybogames.subway.surfers.game",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "offline",
     "size": "210MB",
     "type": "Game",
@@ -42,7 +42,7 @@
   {
     "name": "Mobile Legends: Bang Bang",
     "package": "com.mobile.legends",
-    "type": "apk",
+    "fileType": "apk",
     "mode": "online",
     "size": "183MB",
     "type": "Game",
@@ -52,7 +52,7 @@
   {
     "name": "Crossfire: Legends",
     "package": "com.tencent.stc.cfl",
-    "type": "apk",
+    "fileType": "apk",
     "mode": "online",
     "size": "1.4GB",
     "type": "Game",
@@ -62,7 +62,7 @@
   {
     "name": "Bus Simulator Indonesia",
     "package": "com.maleo.bussimulatorid",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "online",
     "size": "890MB",
     "type": "Game",
@@ -72,7 +72,7 @@
   {
     "name": "Car Parking Multiplayer",
     "package": "com.olzhas.carparking.multyplayer",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "online",
     "size": "1.8GB",
     "type": "Game",
@@ -82,7 +82,7 @@
   {
     "name": "Car Parking Multiplayer 2",
     "package": "com.olzhas.carparking.multyplayer2",
-    "type": "xapk",
+    "fileType": "xapk",
     "mode": "online",
     "size": "3.0GB",
     "type": "Game",
@@ -92,7 +92,7 @@
   {
     "name": "Facebook",
     "package": "com.facebook.katana",
-    "type": "xapk",
+    "fileType": "apk",
     "mode": "online",
     "size": "146MB",
     "type": "App",
