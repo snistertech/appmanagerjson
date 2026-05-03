@@ -118,8 +118,7 @@
     "type": "App",
     "url": "https://d.apkpure.com/b/APK/com.zhiliaoapp.musically?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnpoaWxpYW9hcHAubXVzaWNhbGx5X2ljb25fMTczOTE2NTM2MF8wMTI/icon.webp?w=106&fakeurl=1&type=.webp"
-  }
-  ,
+  },
   {
     "name": "Telegram",
     "package": "org.telegram.messenger",
@@ -129,5 +128,135 @@
     "type": "App",
     "url": "https://d.apkpure.com/b/APK/org.telegram.messenger?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/b3JnLnRlbGVncmFtLm1lc3Nlbmdlcl9pY29uXzE1NTk3NjgyMzhfMDA3/icon.webp?w=140&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Instagram",
+    "package": "com.instagram.android",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "126MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.instagram.android?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbS5hbmRyb2lkX2ljb25fMTY3NjM0ODUzN18wMzI/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Free Fire: Undersea Mystery",
+    "package": "com.dts.freefireth",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "372MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.dts.freefireth?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmR0cy5mcmVlZmlyZXRoX2ljb25fMTc3NTYyNDcwN18wMDA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Shadow Fight 2",
+    "package": "com.nekki.shadowfight",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "129MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.nekki.shadowfight?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm5la2tpLnNoYWRvd2ZpZ2h0X2ljb25fMTc3NzM5NTYyNl8wMjk/icon.webp?w=140&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "8 Ball Pool",
+    "package": "com.miniclip.eightballpool",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "141MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.miniclip.eightballpool?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm1pbmljbGlwLmVpZ2h0YmFsbHBvb2xfaWNvbl8xNTYxMzk3MjU5XzAyOQ/icon.webp?w=320&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "School Party Craft",
+    "package": "com.candyroom.clubcraft",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "119MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.candyroom.clubcraft?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmNhbmR5cm9vbS5jbHViY3JhZnRfaWNvbl8xNjA4MTYwNTAyXzA0Ng/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Candy Crush Saga",
+    "package": "com.king.candycrushsaga",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "148MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.king.candycrushsaga?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmtpbmcuY2FuZHljcnVzaHNhZ2FfaWNvbl8xNzYyMjM5NjUwXzA0Ng/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Plants vs Zombies™ 2",
+    "package": "com.ea.game.pvz2_row",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "1.0GB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.ea.game.pvz2_row?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmVhLmdhbWUucHZ6Ml9yb3dfaWNvbl8xNzU2OTAyODI2XzAxMg/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "The Humpback Whale",
+    "package": "eu.dreamup.whalefree",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "37MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/eu.dreamup.whalefree?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/ZXUuZHJlYW11cC53aGFsZWZyZWVfaWNvbl8xNTYyMDUwMTQ1XzA5OQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Bubbu 2 - My Pet Kingdom",
+    "package": "com.bubadu.bubbu2",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "159MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.bubadu.bubbu2?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmJ1YmFkdS5idWJidTJfaWNvbl8xNjk5NzA2ODg3XzAxMA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Angry Birds 2",
+    "package": "com.rovio.baba",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "684MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.rovio.baba?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJvdmlvLmJhYmFfaWNvbl8xNzQzNDE4NTM3XzA3Nw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "The Ghost - Multiplayer Horror",
+    "package": "com.Gameplier.TheGhost",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "799MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.Gameplier.TheGhost?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkdhbWVwbGllci5UaGVHaG9zdF9pY29uXzE2MTc3MzA0NjdfMDg5/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Block Blast!",
+    "package": "com.block.juggle",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "225MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.block.juggle?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmJsb2NrLmp1Z2dsZV9pY29uXzE2NjkwMTU4OTZfMDM5/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Bubbl Shooter Ball Game",
+    "package": "com.ahmadsoltan.junglebubbleshooter",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "6MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.ahmadsoltan.junglebubbleshooter?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFobWFkc29sdGFuLmp1bmdsZWJ1YmJsZXNob290ZXJfaWNvbl8xNzE5NzU4NzI1XzA5NQ/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
