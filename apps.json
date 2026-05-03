@@ -258,5 +258,75 @@
     "type": "Game",
     "url": "https://d.apkpure.com/b/APK/com.ahmadsoltan.junglebubbleshooter?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFobWFkc29sdGFuLmp1bmdsZWJ1YmJsZXNob290ZXJfaWNvbl8xNzE5NzU4NzI1XzA5NQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Super Bear Adventure",
+    "package": "com.Earthkwak.Platformer",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "201MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.Earthkwak.Platformer?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkVhcnRoa3dhay5QbGF0Zm9ybWVyX2ljb25fMTU4NTIyMDUyNV8wODk/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Granny",
+    "package": "com.dvloper.granny",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "209MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.dvloper.granny?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmR2bG9wZXIuZ3Jhbm55X2ljb25fMTU1NTU2MDAxNV8wMzQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Google Chrome",
+    "package": "com.android.chrome",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "25MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/XAPK/com.android.chrome?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTcwNTUwOTEzOV8wNzc/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Brave Private Web Browser, VPN",
+    "package": "com.brave.browser",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "242MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/XAPK/com.brave.browser?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmJyYXZlLmJyb3dzZXJfaWNvbl8xNzY4MDc3MTA4XzAxNA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Driver Simulator",
+    "package": "com.zuuks.driver.simulator",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "92MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.zuuks.driver.simulator?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnp1dWtzLmRyaXZlci5zaW11bGF0b3JfaWNvbl8xNTQ0MTc3MjUyXzA4MA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Taxi Simulator 2018",
+    "package": "com.zuuks.taxi.simulator.uber",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "94MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.zuuks.taxi.simulator.uber?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image/Y29tLnp1dWtzLnRheGkuc2ltdWxhdG9yLnViZXJfaWNvbl8xNTI2MDE4MjY2XzA5OQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Car Simulator 2: Open World",
+    "package": "com.oppanagames.car.simulator",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "872MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.oppanagames.car.simulator?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm9wcGFuYWdhbWVzLmNhci5zaW11bGF0b3JfaWNvbl8xNzU1OTQwMTA3XzAxOA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
