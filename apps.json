@@ -98,5 +98,36 @@
     "type": "App",
     "url": "https://d.apkpure.com/b/APK/com.facebook.katana?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmthdGFuYV9pY29uXzE2OTU4MjkxNjdfMDYw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Messenger",
+    "package": "com.facebook.orca",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "76MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.facebook.orca?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLm9yY2FfaWNvbl8xNzQwNTQ2MjYzXzA2OQ/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "TikTok",
+    "package": "com.zhiliaoapp.musically",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "363MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.zhiliaoapp.musically?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnpoaWxpYW9hcHAubXVzaWNhbGx5X2ljb25fMTczOTE2NTM2MF8wMTI/icon.webp?w=106&fakeurl=1&type=.webp"
+  }
+  ,
+  {
+    "name": "Telegram",
+    "package": "org.telegram.messenger",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "81MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/org.telegram.messenger?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/b3JnLnRlbGVncmFtLm1lc3Nlbmdlcl9pY29uXzE1NTk3NjgyMzhfMDA3/icon.webp?w=140&fakeurl=1&type=.webp"
   }
 ]
