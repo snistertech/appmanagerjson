@@ -328,5 +328,85 @@
     "type": "Game",
     "url": "https://d.apkpure.com/b/XAPK/com.oppanagames.car.simulator?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm9wcGFuYWdhbWVzLmNhci5zaW11bGF0b3JfaWNvbl8xNzU1OTQwMTA3XzAxOA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Mini Militia Classic",
+    "package": "com.appsomniacs.mmc",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "57MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.appsomniacs.mmc?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmFwcHNvbW5pYWNzLm1tY19pY29uXzE3MTEwMTAxMzVfMDgw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "GTA: Vice City - Definitive",
+    "package": "com.rockstargames.gtavc.de",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "849MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.rockstargames.gtavc.de?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJvY2tzdGFyZ2FtZXMuZ3RhdmMuZGVfaWNvbl8xNzU3NTg3MDAzXzA2MA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "PPSS22 Emulator - PS2 Emulator",
+    "package": "com.ppss22.emulator",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "8MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/XAPK/com.ppss22.emulator?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnBwc3MyMi5lbXVsYXRvcl9pY29uXzE2NzA1ODM4NTZfMDE2/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "YouTube",
+    "package": "com.google.android.youtube",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "177MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.google.android.youtube?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfaWNvbl8xNzI5NjUyNjk4XzA0Ng/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Spotify",
+    "package": "com.spotify.music",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "127MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.spotify.music?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnNwb3RpZnkubXVzaWNfaWNvbl8xNzE2NDYwMTQ4XzA0Nw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Preschool Kids: Counting games",
+    "package": "com.EducaGames.DinoTim",
+    "fileType": "xapk",
+    "mode": "offline",
+    "size": "68MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/XAPK/com.EducaGames.DinoTim?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkVkdWNhR2FtZXMuRGlub1RpbV9pY29uXzE3NjM1MTg1NjBfMDQz/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Tekken 7",
+    "package": "com.SandSprogrammingGroup.Tekken7",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "36MB",
+    "type": "App",
+    "url": "https://d.apkpure.com/b/APK/com.SandSprogrammingGroup.Tekken7?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/user/admin/YWRtaW5fdGVra2VuLTctNDE1NTU2OTY0OS5wbmdfMTcwNTM3NTA2NzI5Nw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "Honor of Kings",
+    "package": "com.levelinfinite.sgameGlobal",
+    "fileType": "apk",
+    "mode": "online",
+    "size": "567MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/APK/com.levelinfinite.sgameGlobal?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmxldmVsaW5maW5pdGUuc2dhbWVHbG9iYWxfaWNvbl8xNzI3MjU3NjQyXzA2OQ/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
