@@ -433,7 +433,7 @@
     "name": "Hill Climb Racing",
     "package": "com.fingersoft.hillclimb",
     "fileType": "xapk",
-    "mode": "online",
+    "mode": "offline",
     "size": "153MB",
     "type": "Game",
     "url": "https://d.apkpure.com/b/XAPK/com.fingersoft.hillclimb?version=latest",
@@ -448,5 +448,35 @@
     "type": "Game",
     "url": "hhttps://d.apkpure.com/b/XAPK/com.Grand.Napal?version=latest",
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkdyYW5kLk5hcGFsX2ljb25fMTc1OTUxOTg2NV8wMjM/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "NBA 2K26 MyTEAM Mobile",
+    "package": "com.t2ksports.myteam2k26v2",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "1.8GB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.t2ksports.myteam2k26v2?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnQya3Nwb3J0cy5teXRlYW0yazI2djJfaWNvbl8xNzc1MjY0NTQ2XzA0Mw/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "NBA 2K25 MyTEAM",
+    "package": "com.t2ksports.myteam2k25",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "1.6GB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.t2ksports.myteam2k25?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnQya3Nwb3J0cy5teXRlYW0yazI1X2ljb25fMTc1NDY3OTIzMF8wMDA/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "NBA 2K25 MyTEAM",
+    "package": "com.t2ksports.myteam2k25",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "1.6GB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.t2ksports.myteam2k25?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnQya3Nwb3J0cy5teXRlYW0yazI1X2ljb25fMTc1NDY3OTIzMF8wMDA/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
