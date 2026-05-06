@@ -428,5 +428,25 @@
     "type": "Game",
     "url": "https://d.apkpure.com/b/XAPK/com.t2ksports.myteam?version=latest",
     "iconUrl": "https://apkpure.com/nba-2k24-myteam/com.t2ksports.myteam"
+  },
+  {
+    "name": "Hill Climb Racing",
+    "package": "com.fingersoft.hillclimb",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "153MB",
+    "type": "Game",
+    "url": "https://d.apkpure.com/b/XAPK/com.fingersoft.hillclimb?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZpbmdlcnNvZnQuaGlsbGNsaW1iX2ljb25fMTU2MTA3MTg4OF8wNDc/icon.webp?w=106&fakeurl=1&type=.webp"
+  },
+  {
+    "name": "RP Grand - Open World Game",
+    "package": "com.Grand.Napal",
+    "fileType": "xapk",
+    "mode": "online",
+    "size": "198MB",
+    "type": "Game",
+    "url": "hhttps://d.apkpure.com/b/XAPK/com.Grand.Napal?version=latest",
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkdyYW5kLk5hcGFsX2ljb25fMTc1OTUxOTg2NV8wMjM/icon.webp?w=106&fakeurl=1&type=.webp"
   }
 ]
