@@ -470,13 +470,13 @@
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnQya3Nwb3J0cy5teXRlYW0yazI1X2ljb25fMTc1NDY3OTIzMF8wMDA/icon.webp?w=106&fakeurl=1&type=.webp"
   },
   {
-    "name": "PPSSPP Gold - Emulator for PSP",
+    "name": "PPSSPP Gold",
     "package": "aronsondev.ppsspp_emulator",
     "fileType": "apk",
     "mode": "offline",
-    "size": "47MB",
+    "size": "29MB",
     "type": "Emulator",
-    "url": "https://d.apkpure.com/b/APK/aronsondev.ppsspp_emulator?version=latest",
-    "iconUrl": "https://image.winudf.com/v2/image/YXJvbnNvbmRldi5wcHNzcHBfZW11bGF0b3JfaWNvbl8xNTE0MDM4OTU0XzAzMw/icon.webp?w=106&fakeurl=1&type=.webp"
+    "url": "https://dl129.apkawards.com/Mod12/dl12/org.ppsspp.ppssppgold/org.ppsspp.ppssppgold_1.20.3-APK_Award.apk",
+    "iconUrl": "https://dl.apkawards.com/moda/dl12/games/org.ppsspp.ppssppgold/img/org.ppsspp.ppssppgold.png"
   }
 ]
