@@ -350,16 +350,6 @@
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJvY2tzdGFyZ2FtZXMuZ3RhdmMuZGVfaWNvbl8xNzU3NTg3MDAzXzA2MA/icon.webp?w=106&fakeurl=1&type=.webp"
   },
   {
-    "name": "PPSS22 Emulator - PS2 Emulator",
-    "package": "com.ppss22.emulator",
-    "fileType": "xapk",
-    "mode": "offline",
-    "size": "8MB",
-    "type": "App",
-    "url": "https://d.apkpure.com/b/XAPK/com.ppss22.emulator?version=latest",
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnBwc3MyMi5lbXVsYXRvcl9pY29uXzE2NzA1ODM4NTZfMDE2/icon.webp?w=106&fakeurl=1&type=.webp"
-  },
-  {
     "name": "YouTube",
     "package": "com.google.android.youtube",
     "fileType": "apk",
