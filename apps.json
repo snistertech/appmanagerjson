@@ -468,5 +468,15 @@
     "type": "Emulator",
     "url": "https://dl129.apkawards.com/Mod12/dl12/org.ppsspp.ppssppgold/org.ppsspp.ppssppgold_1.20.3-APK_Award.apk",
     "iconUrl": "https://dl.apkawards.com/moda/dl12/games/org.ppsspp.ppssppgold/img/org.ppsspp.ppssppgold.png"
+  },
+  {
+    "name": "PPSSTWO",
+    "package": "unknown.ppsstwo_emulator",
+    "fileType": "apk",
+    "mode": "offline",
+    "size": "29MB",
+    "type": "Emulator",
+    "url": "https://www.romspedia.com/emulators/programs/ppsstwo/android?version=1.18",
+    "iconUrl": "https://www.romspedia.com/img/emulators/PPSSTWO-ps2-emulator.jpg"
   }
 ]
